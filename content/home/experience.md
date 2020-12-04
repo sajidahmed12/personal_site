@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Dhaka"
   date_start = "2019-12-01"
   date_end = ""
-  description = """Working under my SUpervisior Dr. Tanzilur Rahman"""
+  description = """Working under my Supervisior Dr. Tanzilur Rahman
   Responsibilities include:
   
   * Data Analysis
