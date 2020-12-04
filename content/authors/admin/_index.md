@@ -1,37 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sajid Ahmed
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Assistant and Undergraduate Lab Instructor 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: North South University
+  url: "http://www.northsouth.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are basically on the applied machine Learning and deep learning techniques.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Computer Vision
+- Natural Language Processing
+- Biomedical Signal Processing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: B.Sc in Computer Science and Engineering
+    institution: North South University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Higher Secondary Certificate(HSC) 
+    institution: Engineering University School & College
+    year: 2015
+  - course: Secondary School Certificate(SSC)
+    institution: Rani Brinda Rani Govt. High School
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,13 +44,13 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/sajid_ahmed12
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=3lLB9NYAAAAJ&hl=en&authuser=3
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sajidahmed12
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "sajid.ahmed1@northsouth.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -69,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I’m a graduate student at the Noth South University, Dhaka Bangladesh. Currently Employed as a Lab Instructor and Research Scientist at North South University. I am broadly interested in Computer Vision basesh Research and their applications, particularly in how can we solve drive scene in Bangladesh Using Semantic Segmentation with the field of deep learning and computer vision, or generated automatically driving assistant systems for a third world country like ours. I graduated from NSU in 2019 with a bachelor’s degree in Computer Science and Engineeing where I was fortunate enough to get to work as an Research Assitant(RA) with Assistant Professor Dr. Tanzilur Rahman and earlier with Senior Lecturer Ms Tanjilah Farah.
