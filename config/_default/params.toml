@@ -97,7 +97,7 @@ address = {street = "Bashir Uddin Road, Kalabagan", city = "Dhaka", region = "CA
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "23.74648030741216", longitude = "90.37393076097332"} , 
+coordinates = {latitude = "23.74648030741216", longitude = "90.37393076097332"} 
 
 # Directions for visitors to locate you.
 directions = "Take a Rikshaw and visit my Building by calling me"
