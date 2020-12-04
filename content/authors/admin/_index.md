@@ -26,7 +26,7 @@ education:
   courses:
   - course: B.Sc in Computer Science and Engineering
     institution: North South University
-    year: 2012
+    year: 2019
   - course: Higher Secondary Certificate(HSC) 
     institution: Engineering University School & College
     year: 2015
@@ -49,19 +49,19 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=3lLB9NYAAAAJ&hl=en&authuser=3
 - icon: github
-  icon_pack: fab
+  icon_pack: fab 
   link: https://github.com/sajidahmed12
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+icon: cv
+icon_pack: ai
+link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "sajid.ahmed1@northsouth.edu"
+email: "mailto:sajid.ahmed1@northsouth.edu"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
