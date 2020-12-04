@@ -28,7 +28,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-    author = ""
+    author = "Sajid Ahmed"
     exclude_featured = false
   
 [design]
