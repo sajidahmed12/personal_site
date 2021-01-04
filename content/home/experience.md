@@ -41,18 +41,4 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Teaching Computer Architecture, Digital Logic Design, Database Systems Lab."""
 
-
-[[experience]]
-  title = "Teaching Assistant(TA)"
-  company = "North South University"
-  company_url = "http://www.northsouth.edu/"
-  location = "Dhaka, Bangladesh"
-  date_start = "2019-15-01"
-  date_end = "2019-31-09"
-  description = """
-  Courses
-  * Structured Programming Language I
-  * Computer Architechture
-  * Object Oriented Programming
-  """
 +++
