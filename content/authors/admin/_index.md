@@ -6,7 +6,7 @@ title: Sajid Ahmed
 superuser: true
 
 # Role/position
-role: Sajid.ahmed1@northsouth.edu
+role: Research Assistant and Undergraduate Lab Instructor
 
 # Organizations/Affiliations
 organizations:
@@ -73,4 +73,4 @@ user_groups:
 - Teacher
 - Developer
 ---
-Sajid Ahmed is a graduate student at Noth South University, Dhaka Bangladesh, currently employed as a Lab Instructor(Part-Time) in the Department of Electrical and Computer Science and Engineering at North South University. He previously held a Teaching Assistant(TA) position for eight months and a Research Assistant(RA) position for the last two years at the Department of Electrical and Computer Engineering at North South University. He received his BSc. Degree in Computer Science and Engineering(CSE) from North South University back in 2019. He is currently working as a part-time Research Assistant on two funded research projects in both Department of DMP(Mathematics and Physics) and the Department of ECE  Under the Supervision of <a href="http://www.northsouth.edu/faculty-members/seps/mathematics-physics/dr.-preetom-nag.html">Assistant Prof. Dr. Preetom Nag</a>  and <a href="http://ece.northsouth.edu/people/dr-tanzilur-rahman-2/">Assistant Prof. Dr. Tanzilur Rahman</a>. He is broadly interested in Computer Vision-based Research and its applications, particularly in solving driving assistant systems for bad road conditions in Bangladesh. It uses Semantic Segmentation and different AI with deep learning and computer vision.
+Sajid Ahmed is a graduate student at Noth South University, Dhaka Bangladesh, currently employed as a Lab Instructor(Part-Time) in the Department of Electrical and Computer Science and Engineering at North South University. He previously held a Teaching Assistant(TA) position for eight months and a Research Assistant(RA) position for the last two years at the Department of Electrical and Computer Engineering at North South University. He received his BSc. Degree in Computer Science and Engineering(CSE) from North South University back in 2019. He is currently working as a part-time Research Assistant on two funded research projects in both Department of DMP(Mathematics and Physics) and the Department of ECE  Under the Supervision of Assistant Prof. <a href="http://www.northsouth.edu/faculty-members/seps/mathematics-physics/dr.-preetom-nag.html"> Dr. Preetom Nag</a> and Assistant Prof. <a href="http://ece.northsouth.edu/people/dr-tanzilur-rahman-2/">Dr. Tanzilur Rahman</a>. He is broadly interested in Computer Vision-based Research and its applications, particularly in solving driving assistant systems for bad road conditions in Bangladesh. It uses Semantic Segmentation and different AI with deep learning and computer vision.
