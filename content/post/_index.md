@@ -9,6 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "Journal"
-  image: "http://www.iiisci.org/Journal/CV$/sci/pdfs/SA676WH19.pdf"
+  caption: ""
+  image: ""
 ---
