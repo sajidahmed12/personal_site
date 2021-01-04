@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Dhaka"
   date_start = "2019-12-01"
   date_end = ""
-  description = """Working under my Supervisior Dr. Tanzilur Rahman
+  description = """I worked in a Government Funded Project Under Dr. Tanzilur Rahman – Assistant Professor NSU ECE.
   Responsibilities include:
   
   * Data Analysis
@@ -33,12 +33,27 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Lab Instructor"
+  title = "Undergraduate Lab Instructor"
   company = "North South University"
   company_url = "http://www.northsouth.edu/"
   location = "Dhaka"
   date_start = "2019-10-13"
   date_end = ""
-  description = """Teaching Computer Architecture, Digital Logic Design, Database Systems Lab."""
+  description = """Taking Classes of Undergraduate Lab courses, Checking the Exam Scripts Grading and
+Evaluate Students works on Labs. And guiding them in lab practicals:
+  *Teaching
+  * Computer Architecture Lab
+  * Digital Logic Design Lab
+  * Database Systems Lab
+"""
+[[experience]]
+  title = "Undergraduate Teaching Assistant"
+  company = "North South University"
+  company_url = "http://www.northsouth.edu/"
+  location = "Dhaka"
+  date_start = "2019-05-01"
+  date_end = "2019-10-12"
+  description = """Consulting on Course basis with assigned Course Students in Office time Checking Assignments Scripts and Exam Proctoring Duty."""  
+  
 
 +++
