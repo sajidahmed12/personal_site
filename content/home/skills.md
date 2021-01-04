@@ -13,7 +13,7 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-
+<!-- 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
@@ -47,6 +47,6 @@ subtitle = ""
   icon = "your-custom-icon-name"
   icon_pack = "custom"
   name = "Surfing"
-  description = "90%"
+  description = "90%" -->
 
 +++
