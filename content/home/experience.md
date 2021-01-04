@@ -42,9 +42,9 @@ date_format = "Jan 2006"
   description = """Taking Classes of Undergraduate Lab courses, Checking the Exam Scripts Grading and
 Evaluate Students works on Labs. And guiding them in lab practicals Teaching Courses:
     
-  * CSE332L -<a href="https://sites.google.com/site/neuro11school/cse-332">Computer Architecture and Design Lab</a>
-  * CSE231L -<a href="http://ece.northsouth.edu/courses/cse-231l/">Digital Logic Design Lab</a>
-  * CSE311L -<a href="http://ece.northsouth.edu/courses/cse-311l/">Database Systems Lab<a/>
+  * CSE332L -<a href="https://sites.google.com/site/neuro11school/cse-332">Computer Architecture and Design Lab</a> with <a href="http://ece.northsouth.edu/people/tanjila-farah/"> Ms.Tanjila Farah </a>
+  * CSE231L -<a href="http://ece.northsouth.edu/courses/cse-231l/">Digital Logic Design Lab</a> with <a href="http://ece.northsouth.edu/people/dr-tanzilur-rahman-2/">Dr. Tanzilur Rahman</a> and <a href="http://ece.northsouth.edu/people/mr-fahimul-haque/"> Mr.Fahimul Haque </a>
+  * CSE311L -<a href="http://ece.northsouth.edu/courses/cse-311l/">Database Systems Lab<a/> with 
 """
 [[experience]]
   title = "Undergraduate Teaching Assistant"
