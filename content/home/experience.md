@@ -40,11 +40,11 @@ date_format = "Jan 2006"
   date_start = "2019-10-13"
   date_end = ""
   description = """Taking Classes of Undergraduate Lab courses, Checking the Exam Scripts Grading and
-Evaluate Students works on Labs. And guiding them in lab practicals:
-  *Teaching
-  * Computer Architecture Lab
-  * Digital Logic Design Lab
-  * Database Systems Lab
+Evaluate Students works on Labs. And guiding them in lab practicals Teaching Courses:
+    
+  * CSE332L -<a herf="http://ece.northsouth.edu/courses/cse-332/">Computer Architecture and Design Lab</a>
+  * CSE231L -<a herf="http://ece.northsouth.edu/courses/cse-231l/">Digital Logic Design Lab</a>
+  * CSE311L -<a herf="http://ece.northsouth.edu/courses/cse-311l/">Database Systems Lab<a/>
 """
 [[experience]]
   title = "Undergraduate Teaching Assistant"
@@ -53,7 +53,13 @@ Evaluate Students works on Labs. And guiding them in lab practicals:
   location = "Dhaka"
   date_start = "2019-05-01"
   date_end = "2019-10-12"
-  description = """Consulting on Course basis with assigned Course Students in Office time Checking Assignments Scripts and Exam Proctoring Duty."""  
+  description = """Consulting on Course basis with assigned Course Students in Office time Checking Assignments Scripts and Exam Proctoring Duty Course Assists.
+  * CSE332 - <a href="http://ece.northsouth.edu/courses/cse-332/">Computer Architecture and Design</a>
+  * CSE115 - <a href="http://ece.northsouth.edu/courses/cse-115/">Programming Language I</a>
+  * CSE215 - <a href="http://ece.northsouth.edu/courses/cse-135/">Programming Language II</a>(Object Oriented Programming)
+  
+  
+  """  
   
 
 +++
