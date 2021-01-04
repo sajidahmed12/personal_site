@@ -6,7 +6,7 @@ title: Sajid Ahmed
 superuser: true
 
 # Role/position
-role: Research Assistant and Undergraduate Lab Instructor 
+role: Sajid.ahmed1@northsouth.edu
 
 # Organizations/Affiliations
 organizations:
