@@ -70,7 +70,7 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
+- Teacher
+- Developer
 ---
-
-I’m a graduate student at the Noth South University, Dhaka Bangladesh. Currently Employed as a Lab Instructor and Research Scientist at North South University. I am broadly interested in Computer Vision basesh Research and their applications, particularly in how can we solve drive scene in Bangladesh Using Semantic Segmentation with the field of deep learning and computer vision, or generated automatically driving assistant systems for a third world country like ours. I graduated from NSU in 2019 with a bachelor’s degree in Computer Science and Engineeing where I was fortunate enough to get to work as an Research Assitant(RA) with Assistant Professor Dr. Tanzilur Rahman and earlier with Senior Lecturer Ms Tanjilah Farah.
+Sajid Ahmed is a graduate student at Noth South University, Dhaka Bangladesh, currently employed as a Lab Instructor(Part-Time) in the Department of Electrical and Computer Science and Engineering at North South University. He previously held a Teaching Assistant(TA) position for eight months and a Research Assistant(RA) position for the last two years at the Department of Electrical and Computer Engineering at North South University. He received his BSc. Degree in Computer Science and Engineering(CSE) from North South University back in 2019. He is currently working as a part-time Research Assistant on two funded research projects in both Department of DMP(Mathematics and Physics) and the Department of ECE  Under the Supervision of Assistant Prof. Dr. Preetom Nag and Assistant Prof. Dr. Tanzilur Rahman. He is broadly interested in Computer Vision-based Research and its applications, particularly in solving driving assistant systems for bad road conditions in Bangladesh. It uses Semantic Segmentation and different AI with deep learning and computer vision.
