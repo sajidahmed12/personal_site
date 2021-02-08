@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-8-29"
   date_end = ""
-  description = ""This was my final year Capstone Thesis project. We developed A Complete Road Health Monitoring System for Bangladesh: Crowdsourced Data Collection through User Application and Smart Analyzer with Real-time Feedback System for Driving Assistance.""
+  description = """This was my final year Capstone Thesis project. We developed A Complete Road Health Monitoring System for Bangladesh: Crowdsourced Data Collection through User Application and Smart Analyzer with Real-time Feedback System for Driving Assistance."""
   
 [[item]]
   organization = "IEEE PES EEDAY 2018 Project Showcase Competition"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-02-01"
   date_end = ""
-  description = "Project: "IoT-based An advanced application to decrease household electricity consumption based on weather information."
+  description = ."""Project: IoT-based An advanced application to decrease household electricity consumption based on weather information."""
   
 [[item]]
   organization = "NSU"
