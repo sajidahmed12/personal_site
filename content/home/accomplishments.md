@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards & Achivements"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,43 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
+  organization = "NSU"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  title = " Capstone Thesis Project Champion at NSU ACM SC INNOVATION CHALLENGE SEASON 8 "
+  url = "http://ece.northsouth.edu/nsu-acm-sc-innovation-challenge-season-8/"
+  certificate_url = ""
+  date_start = "2019-8-29"
   date_end = ""
-  description = ""
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""This was my final year Capstone Thesis project. We developed A Complete Road Health Monitoring System for Bangladesh: Crowdsourced Data Collection through User Application and Smart Analyzer with Real-time Feedback System for Driving Assistance.""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "IEEE PES EEDAY 2018 Project Showcase Competition"
+  organization_url = "https://www.edx.org"
+  title = "2nd Runner's up IEEE PES EEDAY 2018 Project Showcase Competition"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-02-01"
+  date_end = ""
+  description = "Project: "IoT-based An advanced application to decrease household electricity consumption based on weather information."
+  
+[[item]]
+  organization = "NSU"
+  organization_url = ""
+  title = "50 % Merit Waiver/ Scholarship Awardee."
   url = ""
   certificate_url = "https://www.datacamp.com"
   date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  date_end = "2019-11-1"
+  description = "50% tuition waiver recipient. Based on Academic Performance at North South University"
+
+[[item]]
+  organization = "Google"
+  organization_url = ""
+  title = "Google Cloud Platform Big Data and Machine Learning Fundamentals Certificate"
+  url = ""
+  certificate_url = "https://coursera.org/share/dc8087b6352d4cf61f37207ce8c1ad5b"
+  date_start = "2010-09-01"
+  date_end = ""
   description = ""
 
 +++
