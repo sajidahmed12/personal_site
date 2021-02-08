@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-02-01"
   date_end = ""
-  description = ."""Project: IoT-based An advanced application to decrease household electricity consumption based on weather information."""
+  description = """Project: IoT-based An advanced application to decrease household electricity consumption based on weather information."""
   
 [[item]]
   organization = "NSU"
