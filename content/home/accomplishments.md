@@ -20,17 +20,17 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "NSU"
-  organization_url = "https://www.coursera.org"
-  title = " Capstone Thesis Project Champion at NSU ACM SC INNOVATION CHALLENGE SEASON 8 "
+  organization_url = ""
+  title = "Capstone Thesis Project Champion at NSU ACM SC INNOVATION CHALLENGE SEASON 8"
   url = "http://ece.northsouth.edu/nsu-acm-sc-innovation-challenge-season-8/"
   certificate_url = ""
-  date_start = "2019-8-29"
+  date_start = "2019-08-01"
   date_end = ""
   description = """This was my final year Capstone Thesis project. We developed A Complete Road Health Monitoring System for Bangladesh: Crowdsourced Data Collection through User Application and Smart Analyzer with Real-time Feedback System for Driving Assistance."""
   
 [[item]]
   organization = "IEEE PES EEDAY 2018 Project Showcase Competition"
-  organization_url = "https://www.edx.org"
+  organization_url = ""
   title = "2nd Runner's up IEEE PES EEDAY 2018 Project Showcase Competition"
   url = ""
   certificate_url = ""
