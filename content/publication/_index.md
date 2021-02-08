@@ -11,8 +11,7 @@ view: 1
 # Optional header image (relative to `static/media/` folder).
 header:
 
-  caption: "Road State Classification of Bangladesh with Convolutional Neural Network
-Approach
+  caption: "
 "
   image: ""
 ---
