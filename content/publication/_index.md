@@ -9,7 +9,11 @@ title: Publications
 view: 1
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
+header:Road State Classification of Bangladesh with Convolutional Neural Network
+Approach
+
+  caption: "Road State Classification of Bangladesh with Convolutional Neural Network
+Approach
+"
   image: ""
 ---
