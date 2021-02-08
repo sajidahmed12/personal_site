@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-08-01"
   date_end = ""
-  description = """This was my final year Capstone Thesis project. We developed A Complete Road Health Monitoring System for Bangladesh: Crowdsourced Data Collection through User Application and Smart Analyzer with Real-time Feedback System for Driving Assistance."""
+  description = "This was my final year Capstone Thesis project. We developed A Complete Road Health Monitoring System for Bangladesh: Crowdsourced Data Collection through User Application and Smart Analyzer with Real-time Feedback System for Driving Assistance."
   
 [[item]]
   organization = "IEEE PES EEDAY 2018 Project Showcase Competition"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-02-01"
   date_end = ""
-  description = """Project: IoT-based An advanced application to decrease household electricity consumption based on weather information."""
+  description = "Project: IoT-based An advanced application to decrease household electricity consumption based on weather information."
   
 [[item]]
   organization = "NSU"
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://www.datacamp.com"
   date_start = "2017-07-01"
-  date_end = "2019-11-1"
+  date_end = "2019-11-01"
   description = "50% tuition waiver recipient. Based on Academic Performance at North South University"
 
 [[item]]
